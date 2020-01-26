@@ -62,7 +62,7 @@ function findArray(catArray) {
 }
 
 // Question 9
-resultsContainer.innerHTML = findArrayH5(cats);
+resultsContainer.innerHTML = findArray(cats);
 
 // Question 10
 function findArrayDiv(catArray) {
